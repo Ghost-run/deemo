@@ -1,0 +1,9 @@
+1） vs code git 历史版本管理  20min
+
+2)  场景见的通讯与协作   20min
+https://phaser.io/news/2021/07/how-to-communicate-between-scenes-in-phaser-3
+
+3）有限状态机   40min
+
+
+
